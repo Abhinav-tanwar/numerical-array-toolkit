@@ -1,2 +1,3 @@
-# numerical-array-toolkit
-Tested NumPy matrix operations, sequence processing, and temperature summaries
+# Numerical Array Toolkit
+
+Python analysis project. Input provenance and scope are documented in data/README.md.
